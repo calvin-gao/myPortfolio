@@ -8,6 +8,7 @@ import Intro from './components/introComponent';
 ReactDOM.render(
   <React.StrictMode>
     <Intro />
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
