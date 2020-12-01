@@ -2,13 +2,16 @@
 import './App.css';
 import AboutMe from './components/AboutMe';
 import Intro from './components/introComponent';
+import Education from './components/Education';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Intro />
       <AboutMe/>
+      <Education/>
     </div>
+
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
