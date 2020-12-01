@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const list_of_class = ["Data Structures", "Algorithms & Complexity", "Software Engineering",
     "Database Management", "Linear Algebra", "Computer Networks", "Web Development", "Machine Learning", "Operating Systems"];
