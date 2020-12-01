@@ -1,12 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
+import AboutMe from './components/AboutMe';
+import Intro from './components/introComponent';
 
 function App() {
   return (
     <div className="App">
-      <h2>
-        This is a test for react 
-      </h2>
+      <Intro />
+      <AboutMe/>
     </div>
     // <div className="App">
     //   <header className="App-header">
