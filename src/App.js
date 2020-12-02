@@ -8,8 +8,6 @@ import Project from './components/Projects';
 import Skill from './components/Skills';
 import Extra from './components/Extra';
 
-
-
 function App() {
   return (
     <div class="App">
