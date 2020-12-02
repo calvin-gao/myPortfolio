@@ -6,10 +6,10 @@ const Intro = () =>{
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link">Home <span class="sr-only">(current)</span></a>
+                        <p class="nav-link">Home <span class="sr-only">(current)</span></p>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link">Link</a>
+                        <p class="nav-link">Link</p>
                     </li>
                     </ul>
                 </div>
