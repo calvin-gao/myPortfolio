@@ -4,16 +4,18 @@ const list_of_class = ["Data Structures", "Algorithms & Complexity", "Software E
     "Database Management", "Linear Algebra", "Computer Networks", "Web Development", "Machine Learning", "Operating Systems"];
 
 const Education = () =>{
-    return ( <div>
+    return ( 
+    <div class="intro">
             <h1> UC Irvine </h1>
-            <h3> 2018-2021 </h3>
-            <h3> Courseworks :</h3>
+            <h4> 2018-2021 </h4>
+            <h5> Courseworks</h5>
             <ul>
                 {list_of_class.map((classes) => (
                     <li> {classes} </li>
                 ))}
             </ul>
-    </div>);
+    </div>
+    );
 }
 
 export default Education;

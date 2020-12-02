@@ -5,17 +5,33 @@ import Intro from './components/introComponent';
 import Education from './components/Education';
 import Experience from './components/Experience';
 import Project from './components/Projects';
+import Skill from './components/Skills';
+import Extra from './components/Extra';
+
+
 
 function App() {
   return (
-    <div>
+    <div class="App">
       <Intro />
       <AboutMe/>
       <Education/>
-      <Experience/>
-      <Project/>
+
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <Experience/>
+          </div>
+          <div class="col">
+            <Project/>
+          </div>
+        </div>
+      </div>
+      <Skill/>
+      <Extra/>
     </div>
 
+    
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
