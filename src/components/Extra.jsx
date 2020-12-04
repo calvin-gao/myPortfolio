@@ -2,7 +2,7 @@ import React from 'react';
 
 const Extra = () => {
     return (
-    <div>
+    <div class="center">
         <h2>Riichi Mahjong at UCI  Student President </h2>
         <h3>Sep. 2019 – 2020 </h3>
         <ul>

@@ -2,7 +2,7 @@ import React from 'react';
 import calvinPic from '../img/calvin.jpg';
 
 const AboutMe = () =>(
-    <div class="intro">
+    <div class="center">
         <h1>About Me</h1>
         <img src = {calvinPic} alt="Profile" width="150" height= "150"></img>
         <p>E-mail: calvig1@uci.edu</p>

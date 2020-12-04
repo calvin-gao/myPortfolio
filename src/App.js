@@ -7,11 +7,15 @@ import Experience from './components/Experience';
 import Project from './components/Projects';
 import Skill from './components/Skills';
 import Extra from './components/Extra';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
     <div class="App">
+      <NavBar/>
+      <div class="jumbotron">
       <Intro />
+      </div>
       <AboutMe/>
       <Education/>
 
