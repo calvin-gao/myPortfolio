@@ -13,3 +13,8 @@ ul {
   justify-content: center;
   display: inline-block;
 }
+
+#name{
+  font-size: 48px;
+  margin-bottom: 16px;
+}

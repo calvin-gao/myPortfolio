@@ -15,8 +15,8 @@ function App() {
       <NavBar/>
       <div class="jumbotron">
       <Intro />
-      </div>
       <AboutMe/>
+      </div>
       <Education/>
 
       <div class="container">

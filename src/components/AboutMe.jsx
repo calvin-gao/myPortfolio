@@ -3,8 +3,7 @@ import calvinPic from '../img/calvin.jpg';
 
 const AboutMe = () =>(
     <div class="center">
-        <h1>About Me</h1>
-        <img src = {calvinPic} alt="Profile" width="150" height= "150"></img>
+        <img src = {calvinPic} alt="Profile" width="250" height= "250"></img>
         <p>E-mail: calvig1@uci.edu</p>
         <p>
 
