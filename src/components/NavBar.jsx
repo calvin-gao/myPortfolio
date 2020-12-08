@@ -10,7 +10,16 @@ const NavBar = () => {
                     <p class="nav-link">Home <span class="sr-only">(current)</span></p>
                 </li>
                 <li class="nav-item">
-                    <p class="nav-link">Link</p>
+                    <a class="nav-link" href="#Projects">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Experience">Experience</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Skills">Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Extra">Extracurricular</a>
                 </li>
                 </ul>
             </div>

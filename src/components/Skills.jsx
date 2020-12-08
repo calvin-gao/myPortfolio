@@ -2,7 +2,8 @@ import React from 'react';
 
 const Skill = () => {
     return (
-        <div class="center">
+        <div class="center" id="Skills">
+            <h1>Skills</h1>
             <p><b> Programming Languages </b> – Python, Java, C#, JavaScript, C++</p>
             <p><b> Frontend </b> – HTML, CSS, jQuery, JavaScript, React</p>
             <p><b> Backend </b> - NodeJS, Express, MySQL, MongoDB</p>

@@ -2,7 +2,8 @@ import React from 'react';
 
 const Extra = () => {
     return (
-    <div class="center">
+    <div id="Extra" class="center">
+        <h1>Extracurricular</h1>
         <h2>Riichi Mahjong at UCI  Student President </h2>
         <h3>Sep. 2019 – 2020 </h3>
         <ul>

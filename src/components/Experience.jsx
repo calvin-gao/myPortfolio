@@ -2,10 +2,10 @@ import React from 'react';
 
 const Experience = () =>{
     return(
-        <div>
+        <div id="Experience">
             <h1>Experience</h1>
             <h2> Liferay</h2>
-            <h3> Software Engineer Intern May 2020 – Aug. 2020</h3>
+            <h3> Software Engineer Intern May 2020 – August 2020</h3>
             <ul>
                 <li>Implemented features on Liferay’s Digital Experience Platform using Java and JSTL.</li>
                 <li>Designed and implemented Java web applications, improving SQL queries to Liferay’s database.</li>
@@ -14,7 +14,7 @@ const Experience = () =>{
             </ul>
 
             <h2>KR-builds</h2>
-            <h3>Software Engineer Intern Jun. 2019 – Sep. 2019</h3>
+            <h3>Software Engineer Intern June 2019 – September 2019</h3>
             <ul>
                 <li>Developed proper form server client validation before uploading to database using Django.</li>
                 <li>Modified user forms based on feedback increasing users by 700+.</li>
@@ -23,7 +23,7 @@ const Experience = () =>{
             </ul>
 
             <h2>Scoreboard Inc </h2> 
-            <h3>Software Engineer Intern Jun. 2018 – Sep .2018</h3>
+            <h3>Software Engineer Intern June 2018 – September 2018</h3>
             <ul>
                 <li>Implemented a comments section to inform users of which comments were constructive.</li>
                 <li>Used MERN tech stack and optimized run time by 25%.</li>
