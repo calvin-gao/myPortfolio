@@ -6,7 +6,7 @@ const Education = () =>{
             <h2> Education</h2>
             <h3> University of California, Irvine </h3>
             <h6><em> B.S. Computer Science </em></h6>
-            <p>Bachelor's of Computer Science, specializing in Information and Full Stack Development</p>
+            <p>Bachelor's of Computer Science, specializing in Information</p>
             <h5 class="pad-bot"> 2018-2021 </h5>
     </div>
     );

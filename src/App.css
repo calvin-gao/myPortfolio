@@ -22,3 +22,15 @@ ul {
 .pad-bot{
   padding-bottom: 16px;
 }
+
+.jumbotron{
+  padding: 0em !important;
+}
+
+.navbar{
+  padding: 0em !important;
+}
+
+.nav-link{
+  margin: .5em !important;
+}
